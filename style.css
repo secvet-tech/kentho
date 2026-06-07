@@ -2,6 +2,15 @@ body {
   background-color: rgba(0, 138, 201, 0.5);
 }
 
+li {
+font-size: 18px;
+font-family: cursive sans-serif;
+}
+
+#paraone {
+font-size: 21px;
+font-family: cursive sans-serif;
+}
 .hagrid {
   display: grid;
   grid-template-areas:
