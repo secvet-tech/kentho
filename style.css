@@ -1,0 +1,27 @@
+body {
+  background-color: rgba(0, 138, 201, 0.5);
+}
+
+.hagrid {
+  display: grid;
+  grid-template-areas:
+  "header header header"
+  "about"
+  "skills skills footer";
+  }
+
+#about {
+  border: 3px solid black;
+  background-color: black;
+  color: white;
+  }
+
+#skills {
+  border: 3px solid black;
+  background-color: black;
+  color: white;
+  }
+
+#contact {
+  border: 5px solid green;
+  }
